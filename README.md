@@ -20,3 +20,11 @@ of the most successful goal, and is closer to the highest failed goal in the sam
 ![Picture2](https://user-images.githubusercontent.com/13733205/100280995-165f8e80-2f37-11eb-8b8e-8ec82ebef21e.png)
 
 ![Picture3](https://user-images.githubusercontent.com/13733205/100281011-1e1f3300-2f37-11eb-8bdd-75bbb65abede.png)
+
+
+# Launch Date and Funding Goals Analysis
+## Overview of Project
+Using the data provided are objective is to determine campaign outcomes based on their launch date and funding goals.
+While by itself, this would be quite a challenging feat, but by having the data set coupled with Excel this task becomes 
+more manageable and easier to share with Louise.
+
